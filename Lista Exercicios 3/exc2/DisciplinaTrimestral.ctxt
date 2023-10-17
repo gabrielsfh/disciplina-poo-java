@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DisciplinaTrimestral
+comment1.params=
+comment1.target=DisciplinaTrimestral()
+comment2.params=nome\ periodo\ nota1\ nota2
+comment2.target=DisciplinaTrimestral(java.lang.String,\ int,\ double,\ double)
+comment3.params=nome
+comment3.target=DisciplinaTrimestral(java.lang.String)
+comment4.params=
+comment4.target=void\ avaliarDisciplina()
+numComments=5

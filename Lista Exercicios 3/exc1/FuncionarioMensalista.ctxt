@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FuncionarioMensalista
+comment1.params=
+comment1.target=FuncionarioMensalista()
+comment2.params=nome\ cpf\ matricula\ salarioBase\ horasExtras
+comment2.target=FuncionarioMensalista(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=horasExtras
+comment3.target=FuncionarioMensalista(int)
+comment4.params=salarioBase
+comment4.target=void\ setSalarioBase(double)
+comment5.params=
+comment5.target=double\ getSalarioBase()
+comment6.params=horasExtras
+comment6.target=void\ setHorasExtras(int)
+comment7.params=
+comment7.target=int\ getHorasExtras()
+comment8.params=
+comment8.target=double\ calculaSalario()
+comment9.params=
+comment9.target=void\ imprimirDados()
+numComments=10
